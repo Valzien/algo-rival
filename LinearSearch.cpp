@@ -12,6 +12,10 @@ int linearSearch(int arr[], int n, int target) {
 }
 
 int main() {
+	cout<<"====================="<<endl;
+	cout<<"Rival Adistia Nugraha"<<endl;
+	cout<<"     231011401067    "<<endl;
+	cout<<"====================="
     int arr[] = {2, 3, 4, 10, 40, 50, 60, 70};
     int n = sizeof(arr) / sizeof(arr[0]);
     int target = 10;
